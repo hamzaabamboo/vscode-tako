@@ -13,6 +13,7 @@
     "onStartupFinished"
   ],
   "main": "./dist/extension.js",
+  "publisher": "hamzaabamboo",
   "contributes": {
     "viewsContainers": {
       "activitybar": [
